@@ -53,4 +53,8 @@ python remote_jobs_scraper.py
 
 Jobs are fetched from: [https://remoteok.io/api](https://remoteok.io/api)
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 1530d84db36c6fc5b99356e160c1568bae55c40a
